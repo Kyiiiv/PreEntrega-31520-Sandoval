@@ -1,0 +1,3 @@
+La idea principal del juego es que sea un shooter en primera persona, donde el jugador va a agarrar o ya tener un arma (todavia voy a ver si puedo implementarlo) va a tener enemigos para derribar y los enemigos van a intentar derribarlo a el. El personaje principal va a tener que salir de un lugar buscando un codigo de 3 numeros que van a estar dispersos en el mapa. El codigo abriria una puerta con keypad. Una vez que sale del lugar finalizaria
+
+
